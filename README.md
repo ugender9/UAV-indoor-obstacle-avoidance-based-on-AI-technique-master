@@ -47,8 +47,7 @@ A technique in DQL where past experiences (state, action, reward, next state) ar
 ## Conclusion
 The integration of AI techniques, particularly reinforcement learning, has significantly advanced UAV indoor obstacle avoidance. By leveraging deep learning and sensor data, UAVs can navigate complex environments safely and efficiently. Continued research and development in this area promise to enhance UAV capabilities in various applications, from delivery services to search and rescue operations.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 Thanks to the contributors and researchers in the field of UAV technology and AI who have paved the way for advancements in obstacle avoidance techniques.
